@@ -1,7 +1,5 @@
-- 👋 Hi, I’m NEERAJ KUMAR 
-- 👀 I’m interested in exploring new things 
-- 🌱 I’m currently learning Data Structure using C
-- 📫 How to reach me :
+# 👋 Hi, I’m NEERAJ KUMAR 
+I am a computer science student continously learning and trying new things.
 Twitter : @neeraaj_
 Instagram : @nrj.jpeg, @lens.raj
 
