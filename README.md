@@ -1,7 +1,7 @@
 # 👋 Hi, I’m NEERAJ KUMAR
 - I am a Computer Science student continously learning and trying new things.
-- Currently, I am continuously learning MERN stack.
-- You may connect with me at following links;
+- Currently, I am learning MERN stack.
+- You can connect with me at following links;
   - [Twitter](https://twitter.com/neeraaj_)
   - [LinkedIn](https://www.linkedin.com/in/nrjkumar/)
   - [Instagram](https://www.instagram.com/lens.raj)
