@@ -5,7 +5,7 @@
   - [Twitter](https://twitter.com/neeraaj_)
   - [LinkedIn](https://www.linkedin.com/in/neeraj-kmr/)
   - [Instagram](https://www.instagram.com/lens.raj)
-  - [Youtube](https://www.youtube.com/@lensraj)
+  - [Youtube](https://www.youtube.com/@neeraj.chaudhary)
 
 <!---
 nrj-kmr/nrj-kmr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
