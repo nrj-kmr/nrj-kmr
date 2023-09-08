@@ -3,7 +3,7 @@
 - Currently, I am learning MERN stack.
 - You can connect with me at following links;
   - [Twitter](https://twitter.com/neeraaj_)
-  - [LinkedIn](https://www.linkedin.com/in/nrjkumar/)
+  - [LinkedIn](https://www.linkedin.com/in/neeraj-kmr/)
   - [Instagram](https://www.instagram.com/lens.raj)
   - [Youtube](https://www.youtube.com/@lensraj)
 
